@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Test()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Test\r\n
+comment1.params=
+comment1.target=int\ tiempoTranscurrido()
+comment1.text=\r\n\ Devuelve\ el\ tiempo\ transcurrido\ en\ segundos\ en\ mostrar\ por\ pantalla\r\n\ los\ n\u00FAmeros\ enteros\ de\ 1\ a\ un\ millon\ medido\ en\ minutos\ y\ segundos.\ \r\n
+numComments=2
